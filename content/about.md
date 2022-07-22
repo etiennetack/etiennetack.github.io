@@ -1,0 +1,47 @@
++++
+title = "Etienne Tack - About"
++++
+
+## About Me
+
+{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+
+Etienne Tack has been a PhD student in computer science at
+[INSIGHT](https://insight.nc/) company, in New Caledonia, since September 2021.
+He is a member of the Institute of Pure and Applied Sciences
+research laboratory ([ISEA](https://isea.unc.nc/))
+at the University of New Caledonia ([UNC](https://unc.nc/en/)).
+
+His PhD, entitled *Development of Hybrid Agent-Based Environmental
+Applications, Guided by Data Sciences*, is supervised by
+[Frederic Flouvat](https://flouvat.github.io/),
+Associate Professor in computer science at the UNC,
+and co-directed by [Jean Marie Fotsing](https://isea.unc.nc/membres/fotsing/),
+Professor in geography at the UNC.
+He is also directed by [Gille Énée](https://isea.unc.nc/membres/enee/),
+Senior Lecturer in computer science at the UNC.
+
+Etienne's research interests are agent-based systems and data sciences,
+two fields of artificial intelligence.
+His main research goal is to create a new method that uses these
+two fields together to aim for more accurate models.
+He is studying the use of agent-based systems applied to
+environmental applications, starting with the simulation of
+informal settlements' dynamics in South Pacific islands.
+
+## Topics of Interest
+
+- Multi-Agent Systems
+- Agent Learning
+- Data Sciences
+
+## Contact
+
+* Email: [e.tack@insight.nc](mailto:e.tack@insight.nc)
+* Phone: [+687 914820](tel:+687-914820)
+* Location: [Noumea, New Caledonia](https://www.google.com/maps/@-22.2561823,166.4426057,13.12z)
+* Timezone: [GMT+11](https://time.is/GMT%2011)
+* Github: [etiennetack](https://github.com/etiennetack)
+* Research Gate: [link](https://www.researchgate.net/profile/Etienne-Tack)
+* ORCID: [0000-0003-4131-1449](https://orcid.org/0000-0003-4131-1449)
+
