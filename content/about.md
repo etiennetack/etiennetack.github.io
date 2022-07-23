@@ -18,7 +18,7 @@ Applications, Guided by Data Sciences*, is supervised by
 Associate Professor in computer science at the UNC,
 and co-directed by [Jean Marie Fotsing](https://isea.unc.nc/membres/fotsing/),
 Professor in geography at the UNC.
-He is also directed by [Gille Énée](https://isea.unc.nc/membres/enee/),
+He is also directed by [Gilles Énée](https://isea.unc.nc/membres/enee/),
 Senior Lecturer in computer science at the UNC.
 
 Etienne's research interests are agent-based systems and data sciences,
@@ -41,7 +41,7 @@ informal settlements' dynamics in South Pacific islands.
 * Phone: [+687 914820](tel:+687-914820)
 * Location: [Noumea, New Caledonia](https://www.google.com/maps/@-22.2561823,166.4426057,13.12z)
 * Timezone: [GMT+11](https://time.is/GMT%2011)
-* Github: [etiennetack](https://github.com/etiennetack)
+* GitHub: [etiennetack](https://github.com/etiennetack)
 * Research Gate: [link](https://www.researchgate.net/profile/Etienne-Tack)
 * ORCID: [0000-0003-4131-1449](https://orcid.org/0000-0003-4131-1449)
 
