@@ -1,0 +1,22 @@
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+paper = "papers"
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
