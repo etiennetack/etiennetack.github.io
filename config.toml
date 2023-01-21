@@ -18,7 +18,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Etienne Tack"
-description = "Description"
+description = "PhD computer science student at the UNC and INSIGHT NC, specialized in agent based systems and data science."
 keywords = ["Research"]
 author = "Etienne Tack"
 # author: ["Me", "You"]  # multiple authors
