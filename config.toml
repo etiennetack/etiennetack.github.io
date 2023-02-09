@@ -72,6 +72,10 @@ imageTitle = "my image"
 name = "About Me"
 url = "about"
 
+[[params.profileMode.buttons]]
+name = "Resume FR"
+url = "resume-fr.pdf"
+
 # [[params.profileMode.buttons]]
 # name = "Posts"
 # url = "posts"
