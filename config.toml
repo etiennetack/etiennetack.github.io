@@ -73,6 +73,10 @@ name = "About Me"
 url = "about"
 
 [[params.profileMode.buttons]]
+name = "Resume"
+url = "resume.pdf"
+
+[[params.profileMode.buttons]]
 name = "Resume FR"
 url = "resume-fr.pdf"
 
