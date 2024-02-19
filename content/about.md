@@ -17,7 +17,7 @@ at the University of New Caledonia ([UNC](https://unc.nc/en/)).
 His PhD, entitled Development of Hybrid Agent-Based Environmental
 Applications, Guided by Data Sciences, is supervised by
 [Frederic Flouvat](https://flouvat.github.io/),
-Associate Professor in computer science at the
+Professor in computer science at the
 [Aix-Marseille Institute of Technology](https://iut.univ-amu.fr/en/),
 and co-directed by [Jean Marie Fotsing](https://isea.unc.nc/membres/fotsing/),
 Professor in geography at the UNC.
